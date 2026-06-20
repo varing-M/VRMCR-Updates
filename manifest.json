@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "required": false,
+  "notice": "VRMCR UI 개편 및 자동 업데이트 기능이 적용된 버전입니다.",
+  "package_url": "https://github.com/varing-M/VRMCR-Updates/releases/download/v1.0.0/VRMCR-update-v1.0.0.zip",
+  "sha256": "044FC7E73EBA7B91E9BC5422A5BE387A2B70751AA185F3290D13C597CB70701A"
+}
