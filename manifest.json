@@ -1,7 +1,7 @@
-﻿{
-    "version":  "1.0.2",
-    "required":  false,
-    "notice":  "VRMCR 설정창 접기/펼치기 UI 업데이트입니다.",
-    "package_url":  "https://github.com/varing-M/VRMCR-Updates/releases/download/v1.0.2/VRMCR-update-v1.0.2.zip",
-    "sha256":  "89C788B11FA3FBE35B79CE25E7B3217565EB412620AD60A057863CC2B9BCD415"
+{
+  "version": "1.0.3",
+  "required": false,
+  "notice": "UI 배경과 업데이트 확인 동작을 개선했습니다.",
+  "package_url": "https://github.com/varing-M/VRMCR-Updates/releases/download/v1.0.3/VRMCR-update-v1.0.3.zip",
+  "sha256": "D56F32C01EF5A87AD994E0D5B4693F10A89166C6400BD7E14D8E406AA15E3B51"
 }
