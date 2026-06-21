@@ -1,7 +1,7 @@
 {
   "version": "1.0.6",
   "required": false,
-  "notice": "백그라운드 YOLO 감시, CD 체크포인트 키 유지, CD OBS 녹화 모듈을 적용했습니다.",
-  "package_url": "https://github.com/varing-M/VRMCR-Updates/releases/download/v1.0.6/VRMCR-update-v1.0.6.zip",
-  "sha256": "C28D8C8398C9E265A9DC9305FC172DDE7BEA8C4F32ACDE0F4AD6781400D58359"
+  "notice": "백그라운드 YOLO 감시, 실행 중 알람 감지, CD 체크포인트 키 유지와 OBS 녹화를 적용했습니다.",
+  "package_url": "https://github.com/varing-M/VRMCR-Updates/releases/download/v1.0.6/VRMCR-update-v1.0.6-final.zip",
+  "sha256": "B03D351C3A8F3B64FEBD4A1C0E4B84043994E536007218C9BD21BE1C8E597F91"
 }
