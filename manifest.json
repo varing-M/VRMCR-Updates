@@ -1,7 +1,7 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "required": false,
-  "notice": "UI 배경과 업데이트 확인 동작을 개선했습니다.",
-  "package_url": "https://raw.githubusercontent.com/varing-M/VRMCR-Updates/main/VRMCR-update-v1.0.3.zip",
-  "sha256": "D56F32C01EF5A87AD994E0D5B4693F10A89166C6400BD7E14D8E406AA15E3B51"
+  "notice": "키 설정, CD 녹화·단축키 안정화, 창 위치 불러오기 기능을 추가했습니다.",
+  "package_url": "https://github.com/varing-M/VRMCR-Updates/releases/download/v1.0.4/VRMCR-update-v1.0.4.zip",
+  "sha256": "A7F68ECC76C798D48DA8D8C67447A16E79611A4FCCD1CBEAB01E8F7133AFD929"
 }
