@@ -1,7 +1,7 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "required": false,
-  "notice": "CD 체크포인트1·2 순환 이동과 지나침 도착 판정, 이동 키 재입력을 추가했습니다.",
-  "package_url": "https://github.com/varing-M/VRMCR-Updates/releases/download/v1.0.5/VRMCR-update-v1.0.5.zip",
-  "sha256": "A07D9CD1B35257BA696A0D0C5F7F3E3ED7B9E5637B4D6105E78DA982C00C8DB8"
+  "notice": "백그라운드 YOLO 감시, CD 체크포인트 키 유지, CD OBS 녹화 모듈을 적용했습니다.",
+  "package_url": "https://github.com/varing-M/VRMCR-Updates/releases/download/v1.0.6/VRMCR-update-v1.0.6.zip",
+  "sha256": "C28D8C8398C9E265A9DC9305FC172DDE7BEA8C4F32ACDE0F4AD6781400D58359"
 }
