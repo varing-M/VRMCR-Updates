@@ -1,7 +1,7 @@
 {
-  "version": "1.0.6",
-  "required": false,
-  "notice": "백그라운드 YOLO 감시, 실행 중 알람 감지, CD 체크포인트 키 유지와 OBS 녹화를 적용했습니다.",
-  "package_url": "https://github.com/varing-M/VRMCR-Updates/releases/download/v1.0.6/VRMCR-update-v1.0.6-final.zip",
-  "sha256": "B03D351C3A8F3B64FEBD4A1C0E4B84043994E536007218C9BD21BE1C8E597F91"
+    "package_url":  "https://github.com/varing-M/VRMCR-Updates/releases/download/v1.0.8/VRMCR-update-v1.0.8.zip",
+    "sha256":  "FDB03C4B86246EFBDC58D88C6278224D815FC0DCD7B42B811E315CF8799ABB76",
+    "version":  "1.0.8",
+    "notice":  "최신 YOLO 학습 모델을 반영하고 도형 감지 성능을 개선했습니다.",
+    "required":  false
 }
