@@ -1,7 +1,7 @@
 {
-    "package_url":  "https://github.com/varing-M/VRMCR-Updates/releases/download/v1.0.8/VRMCR-update-v1.0.8.zip",
-    "sha256":  "FDB03C4B86246EFBDC58D88C6278224D815FC0DCD7B42B811E315CF8799ABB76",
-    "version":  "1.0.8",
-    "notice":  "최신 YOLO 학습 모델을 반영하고 도형 감지 성능을 개선했습니다.",
-    "required":  false
+    "version":  "1.0.9",
+    "app_name":  "VRMCR",
+    "package_url":  "https://github.com/varing-M/VRMCR-Updates/releases/download/v1.0.9/VRMCR-update-v1.0.9.zip",
+    "sha256":  "E6039F95EC72E65D2BA3C6F00380C5C9D1465D014F1F507E1E3CE12BABFC8BB8",
+    "notes":  "전체 설정 내보내기/가져오기 기능과 최신 거탐 모델을 포함했습니다."
 }
