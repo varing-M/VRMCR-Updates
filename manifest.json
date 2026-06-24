@@ -2,6 +2,6 @@
     "version":  "1.0.9",
     "app_name":  "VRMCR",
     "package_url":  "https://github.com/varing-M/VRMCR-Updates/releases/download/v1.0.9/VRMCR-update-v1.0.9.zip",
-    "sha256":  "E6039F95EC72E65D2BA3C6F00380C5C9D1465D014F1F507E1E3CE12BABFC8BB8",
+    "sha256":  "4C474A032AE26DF920428D7D58427642FCD425399FABA066A4F3EA22E2CB68E7",
     "notes":  "전체 설정 내보내기/가져오기 기능과 최신 거탐 모델을 포함했습니다."
 }
