@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.9",
+    "version":  "1.0.10",
     "app_name":  "VRMCR",
-    "package_url":  "https://github.com/varing-M/VRMCR-Updates/releases/download/v1.0.9/VRMCR-update-v1.0.9.zip",
-    "sha256":  "4C474A032AE26DF920428D7D58427642FCD425399FABA066A4F3EA22E2CB68E7",
-    "notes":  "망둥님 반갑습니다 아무쪼록 정지없이 쓰시길 기원합니다."
+    "package_url":  "https://github.com/varing-M/VRMCR-Updates/releases/download/v1.0.10/VRMCR-update-v1.0.10.zip",
+    "sha256":  "6D5D619FEC8C8D854183AF7C763F6750FE3C39F11AF186186FB7DD6504745BD8",
+    "notes":  "알람 감지 시 ImageGrab 녹화 기능을 추가했습니다."
 }
