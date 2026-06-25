@@ -1,12 +1,14 @@
-{
+﻿{
     "version":  "1.1.0",
-    "notice":  "VRMCR v1.1.0 업데이트",
+    "app_name":  "VRMCR",
     "package_url":  "https://github.com/varing-M/VRMCR-Updates/releases/download/v1.1.0/VRMCR-update-v1.1.0.zip",
-    "sha256":  "291FAD66FCBAB4974A74DC883179A51AE4F6D8AE863EF97497803C4F789696A2",
-    "required":  false,
+    "sha256":  "011731578C2DEBC0D9DE1496F7950ADFBA33E6357B84C91860908C17ADE705F5",
+    "mandatory":  false,
     "notes":  [
                   "거탐 실행 방식 ImageGrab / CPU / 640 고정",
                   "거탐 최초 포착/추적 안정성 개선",
+                  "저FPS 차단을 F9 시작 시점 기준으로 변경",
+                  "저FPS 차단 중 Tk UI 스레드 오류 수정",
                   "알람 후 ImageGrab 녹화 영역 최적화",
                   "대상창 해상도/비율 표시 및 크기 직접입력 추가",
                   "설정창 거탐 고정값 안내 표시로 정리",
