@@ -1,14 +1,14 @@
-﻿{
-    "version":  "1.1.1",
-    "notice":  "거탐 FPS 진단 로그와 미리보기 부하를 개선했습니다.",
-    "package_url":  "https://github.com/varing-M/VRMCR-Updates/releases/download/v1.1.1/VRMCR-update-v1.1.1.zip",
-    "sha256":  "87299C8D84C388A70D21F84AA430728A51EA82A4B6F0487590ABAB0734679C3B",
+{
+    "version":  "1.1.2",
     "required":  false,
+    "package_url":  "https://github.com/varing-M/VRMCR-Updates/releases/download/v1.1.2/VRMCR-update-v1.1.2.zip",
+    "sha256":  "0DDF12FAA609A4B5E9D320505F6FD7DFDF2224F48DFAAF86252EE803B64CB4BB",
+    "notice":  "도형거탐 최초 포착 개선 및 위치조정 창 성능 개선",
     "notes":  [
-                  "미리보기 창이 닫혀 있으면 이미지 변환을 생략하여 거탐 부하 감소",
-                  "거탐 FPS 로그에 미리보기 처리 시간과 루프 전체 시간을 추가",
-                  "거탐 FPS가 3 이하일 때 알람 녹화를 자동 생략하여 추적 부하 감소",
-                  "거탐 미검출 상태에서도 미리보기 창 갱신 가능",
-                  "업데이트 패키지에 루트 pyd와 data pyd를 모두 포함"
+                  "최초 포착 전 낮은 신뢰도 후보도 먼저 수집하도록 변경",
+                  "최초 포착 인정 기준을 실전용으로 완화",
+                  "후보가 버려지는 이유를 로그로 표시하도록 추가",
+                  "도형거탐 위치조정 창이 닫혀 있으면 이미지 변환/그리기를 하지 않도록 개선",
+                  "도형거탐 위치조정 창을 열면 저장된 마지막 캡처를 바로 표시"
               ]
 }
