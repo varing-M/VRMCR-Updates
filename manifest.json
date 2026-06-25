@@ -2,9 +2,10 @@
     "version":  "1.1.0",
     "app_name":  "VRMCR",
     "package_url":  "https://github.com/varing-M/VRMCR-Updates/releases/download/v1.1.0/VRMCR-update-v1.1.0.zip",
-    "sha256":  "011731578C2DEBC0D9DE1496F7950ADFBA33E6357B84C91860908C17ADE705F5",
+    "sha256":  "D16C440A8625D062F559C4D0CA6507889B2624318E206757BE1564551E3BF7E6",
     "mandatory":  false,
     "notes":  [
+                  "거탐 마우스 이동을 예측 보정 없이 즉시 이동 방식으로 변경",
                   "거탐 실행 방식 ImageGrab / CPU / 640 고정",
                   "거탐 최초 포착/추적 안정성 개선",
                   "저FPS 차단을 F9 시작 시점 기준으로 변경",
