@@ -1,10 +1,10 @@
 {
     "version":  "1.1.3",
     "package_url":  "https://github.com/varing-M/VRMCR-Updates/releases/download/v1.1.3/VRMCR-update-v1.1.3.zip",
-    "sha256":  "4DCFA20F941EA994C318ECD337F55BBD00D4AA9BF961901AB6FB680412D08221",
+    "sha256":  "EB70B99907B540ADA07A65A0426B80D33A992252615963C18207DDF8DB15D634",
     "notes":  [
+                  "매크로 시작 시 거탐 캡처/추론이 바로 켜지지 않도록 수정",
                   "알람 녹화가 거탐 FPS가 낮아도 생략되지 않도록 수정",
-                  "거탐 모델을 실행 시 미리 로드하고 알람 전에는 캡처/추론만 대기",
-                  "도형거탐 위치조정 화면이 일반 게임화면으로 덮어써지지 않도록 수정"
+                  "거탐 모델은 실행 시 미리 로드하고 알람 전에는 대기"
               ]
 }
