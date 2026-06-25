@@ -1,10 +1,16 @@
 {
-    "version":  "1.1.3",
-    "package_url":  "https://github.com/varing-M/VRMCR-Updates/releases/download/v1.1.3/VRMCR-update-v1.1.3.zip",
-    "sha256":  "EB70B99907B540ADA07A65A0426B80D33A992252615963C18207DDF8DB15D634",
+    "version":  "1.1.4",
+    "package_url":  "https://github.com/varing-M/VRMCR-Updates/releases/download/v1.1.4/VRMCR-update-v1.1.4.zip",
+    "sha256":  "EA4C2899EC7C0662F1B29D9A89C935E3289C6A1A98716E91BF181FEC337A5C50",
+    "required":  false,
     "notes":  [
-                  "매크로 시작 시 거탐 캡처/추론이 바로 켜지지 않도록 수정",
-                  "알람 녹화가 거탐 FPS가 낮아도 생략되지 않도록 수정",
-                  "거탐 모델은 실행 시 미리 로드하고 알람 전에는 대기"
+                  "거탐 FPS/ms 표시용 작은 항상 위 상태창 추가",
+                  "미니게임 감지 횟수 카운트 표시 추가",
+                  "메인 UI 로그 출력창 제거 및 디버그 로그 20줄 제한",
+                  "반복 루틴/체크포인트 로그를 줄이고 중요 로그만 출력",
+                  "거탐 입력 크기를 설정에서 수정 가능하게 변경",
+                  "전체설정 내보내기에 알람 소리 파일까지 포함",
+                  "도형거탐 위치조정 창 이미지를 원본 크기 유지/잘림 방식으로 변경",
+                  "도형거탐 ROI 크기 표시 및 전체설정 포함 확인"
               ]
 }
