@@ -1,20 +1,19 @@
-﻿{
-    "version":  "1.1.0",
+{
+    "version":  "1.1.1",
     "app_name":  "VRMCR",
-    "package_url":  "https://github.com/varing-M/VRMCR-Updates/releases/download/v1.1.0/VRMCR-update-v1.1.0.zip",
-    "sha256":  "D16C440A8625D062F559C4D0CA6507889B2624318E206757BE1564551E3BF7E6",
+    "package_url":  "https://github.com/varing-M/VRMCR-Updates/releases/download/v1.1.1/VRMCR-update-v1.1.1.zip",
+    "sha256":  "76B634A14471427C56F6024CD991BE6400F69602DAEF5770E5B7A80FFA8C64BA",
     "mandatory":  false,
     "notes":  [
-                  "거탐 마우스 이동을 예측 보정 없이 즉시 이동 방식으로 변경",
-                  "거탐 실행 방식 ImageGrab / CPU / 640 고정",
-                  "거탐 최초 포착/추적 안정성 개선",
+                  "거탐 GPU 필수 모드 적용 - CUDA GPU 없으면 매크로 시작 차단",
+                  "미니게임 전용 ROI 캡처 구조 적용",
+                  "거탐 미리보기에서 드래그로 ROI 저장 가능",
+                  "미니게임 종료 후 마지막 미리보기와 탐지 위치 유지",
+                  "거탐 미리보기에 탐지 박스와 마우스 목표 중심점 표시",
+                  "OpenCV 보조 추적 추가",
+                  "거탐 마우스 이동 즉시 이동 방식 적용",
                   "저FPS 차단을 F9 시작 시점 기준으로 변경",
-                  "저FPS 차단 중 Tk UI 스레드 오류 수정",
-                  "알람 후 ImageGrab 녹화 영역 최적화",
                   "대상창 해상도/비율 표시 및 크기 직접입력 추가",
-                  "설정창 거탐 고정값 안내 표시로 정리",
-                  "업데이트 내용 팝업 및 다시 보기 버튼 추가",
-                  "빨코 미니맵/캐릭터 미감지 자동 정지 조건 추가",
                   "거탐 모델 파일 최신 학습본 반영"
               ]
 }
