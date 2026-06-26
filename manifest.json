@@ -1,7 +1,7 @@
 {
     "version":  "1.1.6",
     "package_url":  "https://github.com/varing-M/VRMCR-Updates/releases/download/v1.1.6/VRMCR-update-v1.1.6.zip",
-    "sha256":  "BFE4126E5E4C680EA064176A6FC528E62B1E583D13991BBC3974F2E6C7979884",
+    "sha256":  "dc9d94243553b9c76481152580ee93750356c4066e3d972b740d8e573cafd35c",
     "required":  false,
     "notes":  [
                   "프로그램 버전을 1.1.6으로 갱신",
