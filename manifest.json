@@ -1,12 +1,12 @@
 {
-    "version":  "1.1.6",
-    "package_url":  "https://github.com/varing-M/VRMCR-Updates/releases/download/v1.1.6/VRMCR-update-v1.1.6.zip",
-    "sha256":  "552C496BB367F174F02CEFBCBC5D9656CC1CDA6778E975092E3F599ED27B772D",
+    "version":  "1.1.7",
     "required":  false,
+    "notice":  "VRMCR v1.1.7 업데이트",
+    "package_url":  "https://raw.githubusercontent.com/varing-M/VRMCR-Updates/main/VRMCR-update-v1.1.7.zip",
+    "sha256":  "50f45725ed5a6818e7383f094597bcc624a7f76f734e071eacb3ae6218bb944d",
     "notes":  [
-                  "프로그램 버전을 1.1.6으로 갱신",
-                  "시뮬레이션에서 가장 안정적이었던 pt로 포함",
-                  "빨코 설정26-06-26-2157.json을 배포 패키지에 포함",
-                  "요청에 따라 업데이트 ZIP에서 제외"
+                  "도형거탐 최초 포착에서 마우스 반경 제한을 제거했습니다.",
+                  "ROI 위치조정 창의 저장된 위치/크기와 초록 박스가 재실행 후에도 표시되도록 수정했습니다.",
+                  "도형거탐 위치조정 창은 마지막 캡처가 없어도 대상창을 캡처해 ROI를 표시합니다."
               ]
 }
