@@ -1,7 +1,7 @@
 {
     "version":  "1.1.4",
     "package_url":  "https://github.com/varing-M/VRMCR-Updates/releases/download/v1.1.4/VRMCR-update-v1.1.4.zip",
-    "sha256":  "EA4C2899EC7C0662F1B29D9A89C935E3289C6A1A98716E91BF181FEC337A5C50",
+    "sha256":  "62E44758E1B1A2FADE123A871686EE45C410A691E5FFAFB302E103CF581E88D0",
     "required":  false,
     "notes":  [
                   "거탐 FPS/ms 표시용 작은 항상 위 상태창 추가",
@@ -11,6 +11,8 @@
                   "거탐 입력 크기를 설정에서 수정 가능하게 변경",
                   "전체설정 내보내기에 알람 소리 파일까지 포함",
                   "도형거탐 위치조정 창 이미지를 원본 크기 유지/잘림 방식으로 변경",
-                  "도형거탐 ROI 크기 표시 및 전체설정 포함 확인"
+                  "도형거탐 위치조정 창을 Canvas 방식으로 변경해 창 축소 시 이미지 밀림 방지",
+                  "도형거탐 ROI X/Y/W/H 직접 입력 및 위치/크기 저장 기능 추가",
+                  "도형거탐 ROI 최소 저장 크기 완화 및 ROI 크기 표시 추가"
               ]
 }
