@@ -2,7 +2,7 @@
     "version":  "1.1.7",
     "required":  false,
     "notice":  "VRMCR v1.1.7 업데이트",
-    "package_url":  "https://raw.githubusercontent.com/varing-M/VRMCR-Updates/main/VRMCR-update-v1.1.7.zip",
+    "package_url":  "https://github.com/varing-M/VRMCR-Updates/releases/download/v1.1.7/VRMCR-update-v1.1.7.zip",
     "sha256":  "50f45725ed5a6818e7383f094597bcc624a7f76f734e071eacb3ae6218bb944d",
     "notes":  [
                   "도형거탐 최초 포착에서 마우스 반경 제한을 제거했습니다.",
