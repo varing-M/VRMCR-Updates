@@ -1,11 +1,12 @@
 {
     "version":  "1.1.6",
     "package_url":  "https://github.com/varing-M/VRMCR-Updates/releases/download/v1.1.6/VRMCR-update-v1.1.6.zip",
-    "sha256":  "dc9d94243553b9c76481152580ee93750356c4066e3d972b740d8e573cafd35c",
+    "sha256":  "DC9D94243553B9C76481152580EE93750356C4066E3D972B740D8E573CAFD35C",
     "required":  false,
     "notes":  [
                   "프로그램 버전을 1.1.6으로 갱신",
-                  "바탕화면의 빨코 설정26-06-26-2157.json을 배포 패키지에 포함",
-                  "BK2/CD 보호 모듈과 실행파일 재빌드"
+                  "시뮬레이션에서 가장 안정적이었던 포함",
+                  "빨코 설정26-06-26-2157.json을 배포 패키지에 포함",
+                  "BK2 보호 모듈과 실행파일 재빌드"
               ]
 }
