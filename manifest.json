@@ -2,7 +2,7 @@
     "version":  "1.1.8",
     "required":  false,
     "notice":  "VRMCR v1.1.8 업데이트",
-    "package_url":  "https://raw.githubusercontent.com/varing-M/VRMCR-Updates/main/VRMCR-update-v1.1.8.zip",
+    "package_url":  "https://github.com/varing-M/VRMCR-Updates/releases/download/v1.1.8/VRMCR-update-v1.1.8.zip",
     "sha256":  "23c488dbca009d8ef199f8e116a9e3d17004f9169afee49e75383383cc639327",
     "notes":  [
                   "OpenCV 보조 추적 방식을 YOLO 실패 시에만 동작하도록 변경했습니다.",
