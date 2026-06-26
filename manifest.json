@@ -1,18 +1,11 @@
 {
-    "version":  "1.1.4",
-    "package_url":  "https://github.com/varing-M/VRMCR-Updates/releases/download/v1.1.4/VRMCR-update-v1.1.4.zip",
-    "sha256":  "62E44758E1B1A2FADE123A871686EE45C410A691E5FFAFB302E103CF581E88D0",
+    "version":  "1.1.6",
+    "package_url":  "https://github.com/varing-M/VRMCR-Updates/releases/download/v1.1.6/VRMCR-update-v1.1.6.zip",
+    "sha256":  "BFE4126E5E4C680EA064176A6FC528E62B1E583D13991BBC3974F2E6C7979884",
     "required":  false,
     "notes":  [
-                  "거탐 FPS/ms 표시용 작은 항상 위 상태창 추가",
-                  "미니게임 감지 횟수 카운트 표시 추가",
-                  "메인 UI 로그 출력창 제거 및 디버그 로그 20줄 제한",
-                  "반복 루틴/체크포인트 로그를 줄이고 중요 로그만 출력",
-                  "거탐 입력 크기를 설정에서 수정 가능하게 변경",
-                  "전체설정 내보내기에 알람 소리 파일까지 포함",
-                  "도형거탐 위치조정 창 이미지를 원본 크기 유지/잘림 방식으로 변경",
-                  "도형거탐 위치조정 창을 Canvas 방식으로 변경해 창 축소 시 이미지 밀림 방지",
-                  "도형거탐 ROI X/Y/W/H 직접 입력 및 위치/크기 저장 기능 추가",
-                  "도형거탐 ROI 최소 저장 크기 완화 및 ROI 크기 표시 추가"
+                  "프로그램 버전을 1.1.6으로 갱신",
+                  "바탕화면의 빨코 설정26-06-26-2157.json을 배포 패키지에 포함",
+                  "BK2/CD 보호 모듈과 실행파일 재빌드"
               ]
 }
