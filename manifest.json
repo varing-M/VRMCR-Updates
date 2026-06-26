@@ -1,12 +1,13 @@
 {
-    "version":  "1.1.7",
+    "version":  "1.1.8",
     "required":  false,
-    "notice":  "VRMCR v1.1.7 업데이트",
-    "package_url":  "https://github.com/varing-M/VRMCR-Updates/releases/download/v1.1.7/VRMCR-update-v1.1.7.zip",
-    "sha256":  "50f45725ed5a6818e7383f094597bcc624a7f76f734e071eacb3ae6218bb944d",
+    "notice":  "VRMCR v1.1.8 업데이트",
+    "package_url":  "https://raw.githubusercontent.com/varing-M/VRMCR-Updates/main/VRMCR-update-v1.1.8.zip",
+    "sha256":  "23c488dbca009d8ef199f8e116a9e3d17004f9169afee49e75383383cc639327",
     "notes":  [
-                  "도형거탐 최초 포착에서 마우스 반경 제한을 제거했습니다.",
-                  "ROI 위치조정 창의 저장된 위치/크기와 초록 박스가 재실행 후에도 표시되도록 수정했습니다.",
-                  "도형거탐 위치조정 창은 마지막 캡처가 없어도 대상창을 캡처해 ROI를 표시합니다."
+                  "OpenCV 보조 추적 방식을 YOLO 실패 시에만 동작하도록 변경했습니다.",
+                  "YOLO가 다시 감지되면 OpenCV 보조 카운트와 템플릿을 갱신합니다.",
+                  "미니맵 표시 버튼과 트리거 키 자동입력 UI를 제거했습니다.",
+                  "단축키로 뜨는 위치/영역 선택창을 확대 표시하고 항상 맨위에 뜨도록 수정했습니다."
               ]
 }
