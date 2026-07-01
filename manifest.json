@@ -1,9 +1,9 @@
 {
-  "version": "1.2.4",
+  "version": "1.2.5",
   "required": false,
-  "notice": "VRMCR v1.2.4 업데이트",
-  "package_url": "https://github.com/varing-M/VRMCR-Updates/releases/download/v1.2.4/VRMCR-update-v1.2.4.zip",
-  "sha256": "3d3f77aa7c924d54a2e5b16e348476c1d6af819f4d309c7babb24522ef81e87d",
+  "notice": "VRMCR v1.2.5 업데이트",
+  "package_url": "https://github.com/varing-M/VRMCR-Updates/releases/download/v1.2.5/VRMCR-update-v1.2.5.zip",
+  "sha256": "4d605ab1361d34f2d865bf7348aa5a3f0f2974d046d25330f635153a7b2d3f55",
   "notes": [
     "1"
   ]
