@@ -1,11 +1,10 @@
 {
-  "version": "1.2.1",
+  "version": "1.2.2",
   "required": false,
-  "notice": "VRMCR v1.2.1 업데이트",
-  "package_url": "https://github.com/varing-M/VRMCR-Updates/releases/download/v1.2.1/VRMCR-update-v1.2.1.zip",
-  "sha256": "4f44f90242adeb9b132e77f0388508464c4c133d15242a7a671f5f6cc1434b8e",
+  "notice": "VRMCR v1.2.2 업데이트",
+  "package_url": "https://github.com/varing-M/VRMCR-Updates/releases/download/v1.2.2/VRMCR-update-v1.2.2.zip",
+  "sha256": "29016a0ae2eaa52709f34646f34e28e179194dfcb747b8214c6130c1882bc477",
   "notes": [
-    "거탐업그레이드",
-    "시간동기화"
+    "1"
   ]
 }
