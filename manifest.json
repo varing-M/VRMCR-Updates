@@ -1,10 +1,12 @@
 {
-  "version": "1.2.6",
+  "version": "1.2.8",
   "required": false,
-  "notice": "VRMCR v1.2.6 업데이트",
-  "package_url": "https://github.com/varing-M/VRMCR-Updates/releases/download/v1.2.6/VRMCR-update-v1.2.6.zip",
-  "sha256": "1305781ed4d17dd8db336df83e068fdd3fa2a18deca57d2324b2272b2efccbc2",
+  "notice": "VRMCR v1.2.8 업데이트",
+  "package_url": "https://github.com/varing-M/VRMCR-Updates/releases/download/v1.2.8/VRMCR-update-v1.2.8.zip",
+  "sha256": "5c8b88fc5bd6135c3b1e226bb0917770f92f635f7de26b5a71eecc6410001634",
   "notes": [
-    "1"
+    "채팅시 채팅알람오게",
+    "(컨+f12로 채팅구역 캡쳐시만)",
+    "거탐 업그레이드"
   ]
 }
