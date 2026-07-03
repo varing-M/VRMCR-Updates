@@ -1,11 +1,11 @@
 {
-  "version": "1.2.9",
+  "version": "1.3.0",
   "required": false,
-  "notice": "VRMCR v1.2.9 업데이트",
-  "package_url": "https://github.com/varing-M/VRMCR-Updates/releases/download/v1.2.9/VRMCR-update-v1.2.9.zip",
-  "sha256": "24d6ef5415c0d2772f2fadb7eef060940ece9317172e481edf24dfe4806df8a3",
+  "notice": "VRMCR v1.3.0 업데이트",
+  "package_url": "https://github.com/varing-M/VRMCR-Updates/releases/download/v1.3.0/VRMCR-update-v1.3.0.zip",
+  "sha256": "902960da50c812efc7ad119534bd5ed72e26602a18bf9817911bad3a9305ae0f",
   "notes": [
-    "채팅감지알람",
-    "거탐 업그레이드"
+    "거탐 업그레이드",
+    "컨+f2로 채팅구역 드래그시 채팅오면 알람기능"
   ]
 }
