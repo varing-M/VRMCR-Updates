@@ -1,11 +1,13 @@
 {
-  "version": "1.4.3",
+  "version": "1.4.5",
   "required": false,
   "password_required": false,
-  "notice": "VRMCR v1.4.3 업데이트",
-  "package_url": "https://github.com/varing-M/VRMCR-Updates/releases/download/v1.4.3/VRMCR-update-v1.4.3.zip",
-  "sha256": "74e43861301efefc6bc074c0cef02eac2673254c2fe08c11dd228edbcbded2ae",
+  "notice": "VRMCR v1.4.5 업데이트",
+  "package_url": "https://github.com/varing-M/VRMCR-Updates/releases/download/v1.4.5/VRMCR-update-v1.4.5.zip",
+  "sha256": "b0cb3703c3ed693522db53ebd7f89ada8af6b091a073eb61103a399cfa8a1b33",
   "notes": [
-    "채팅오류 개선"
+    "채팅검사 업그레이드",
+    "설정-공통에서 필터할 채팅 입력하면 필터링되어 알람울림",
+    "예)너굴님/저기요/ㅁㅋㄹ/대답 등등"
   ]
 }
