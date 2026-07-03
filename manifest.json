@@ -1,11 +1,11 @@
 {
-  "version": "1.3.7",
+  "version": "1.3.9",
   "required": false,
   "password_required": false,
-  "notice": "VRMCR v1.3.7 업데이트",
-  "package_url": "https://github.com/varing-M/VRMCR-Updates/releases/download/v1.3.7/VRMCR-update-v1.3.7.zip",
-  "sha256": "4c31b8b29f8dcc00085eec07db0e8469cfdc4b838d4087980d70f6bb64191b04",
+  "notice": "VRMCR v1.3.9 업데이트",
+  "package_url": "https://github.com/varing-M/VRMCR-Updates/releases/download/v1.3.9/VRMCR-update-v1.3.9.zip",
+  "sha256": "6de33e7340337b0fcac5fadfef3fba82dcdb64b8f471433d7c41b66c932c84f7",
   "notes": [
-    "채팅오류 감지 수정"
+    "채팅오류 수정"
   ]
 }
