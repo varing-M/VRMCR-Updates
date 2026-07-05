@@ -1,11 +1,11 @@
 {
-  "version": "1.5.2",
+  "version": "1.5.3",
   "required": false,
   "password_required": false,
-  "notice": "VRMCR v1.5.2 업데이트",
-  "package_url": "https://github.com/varing-M/VRMCR-Updates/releases/download/v1.5.2/VRMCR-update-v1.5.2.zip",
-  "sha256": "5e8c7e527976d51437dda4faad239fded0b189cabee5f561c1fd853c4f032093",
+  "notice": "VRMCR v1.5.3 업데이트",
+  "package_url": "https://github.com/varing-M/VRMCR-Updates/releases/download/v1.5.3/VRMCR-update-v1.5.3.zip",
+  "sha256": "9a3797a1d529826c623136394e0446cf2e88e57e8fcd108cdb6c322b89261e77",
   "notes": [
-    "채팅감지 좀더 타이트하게 수정"
+    "1"
   ]
 }
